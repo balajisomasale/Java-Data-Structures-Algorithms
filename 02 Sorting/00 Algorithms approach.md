@@ -19,3 +19,16 @@ remember to write the edge case => like if it is sorted in the first attempt onl
 
 
 -----------------------------------------------------------------------------------------------------
+
+**Selection Sort **:  (Efficient )
+
+(no of steps)    => 5 2 -1 6 3 <br>
+      1)           -1 2 5  6 3        // Search for MIN element in entire items and sort it in first position and it is fixed  <br>
+      2)           -1 2 5  6 3        // 2 is selected next and is placed next to prev value 1   <br>
+      3)           -1 2 3  5 6        // 3 is selected next and is placed next to 2 <br>
+      4)           -1 2 3  5 6        // 5 is selected and is placed next to 3 and breaks the loops since last element would be the highest       // Sorted <br>
+
+
+
+
+

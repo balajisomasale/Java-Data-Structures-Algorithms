@@ -1,10 +1,10 @@
 **Bubble Sort **: 
 
 (no of steps)    => 7 5 4 2 0 <br>
-      1)            5 4 2 0 7        // (n-i-1) element is sorted everytime
-      2)            4 2 0 5 7 
-      3)            2 0 4 5 7
-      4)            0 2 4 5 7       // Sorted 
+      1)            5 4 2 0 7        // (n-i-1) element is sorted everytime <br>
+      2)            4 2 0 5 7 <br>
+      3)            2 0 4 5 7 <br>
+      4)            0 2 4 5 7       // Sorted <br>
    
    
    (n-1) steps    for n items => therfore for 'n' items it will take (n-1) times

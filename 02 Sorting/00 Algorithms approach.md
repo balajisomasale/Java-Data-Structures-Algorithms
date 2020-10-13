@@ -1,4 +1,7 @@
-**Bubble Sort **: 
+
+
+-----------------------------------------------------------------------------------------------------
+**Bubble Sort **:  (Inefficient because it takes so many swaps within )
 
 (no of steps)    => 7 5 4 2 0 <br>
       1)            5 4 2 0 7        // (n-i-1) element is sorted everytime <br>
@@ -13,3 +16,6 @@
 we will Iterate through the array => check for current element and next element => if small => then placed in current else placed in next element
 likewise => for each iteration 
 remember to write the edge case => like if it is sorted in the first attempt only return some boolean and break the loop :)
+
+
+-----------------------------------------------------------------------------------------------------

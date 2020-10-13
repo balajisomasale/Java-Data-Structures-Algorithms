@@ -1,6 +1,6 @@
 **Bubble Sort **: 
 
-(no of steps)    => 7 5 4 2 0
+(no of steps)    => 7 5 4 2 0 <br>
       1)            5 4 2 0 7        // (n-i-1) element is sorted everytime
       2)            4 2 0 5 7 
       3)            2 0 4 5 7

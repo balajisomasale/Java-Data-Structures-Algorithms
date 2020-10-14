@@ -18,7 +18,7 @@ public class Anagrams_not_optimised {
 			isAnagram=false;
 			for(int j=0;j<b.length();j++)
 			{
-				if(b.charAt(j)==c)
+				if(b.charAt(j)==c && !visited[j])
 				{
 					isAnagram =true;
 					break;
